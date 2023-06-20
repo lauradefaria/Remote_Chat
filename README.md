@@ -44,5 +44,5 @@ $./client IP_SERVIDOR PORTA NOME_DO_CLIENTE
 
 |<a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria Maranhão Ayres**</a> |
 |:-----------------------------------------------------------------------------------------:|
-|                   <img src="AKC_Group_Classifier/imgs/laura.jpg" width="200px"> </img>                            |           
+|                   <img src="https://github.com/lauradefaria/AKC_Group_Classifier/imgs/laura.jpg" width="200px"> </img>      |           
 |               <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>      | 
